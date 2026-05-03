@@ -20,7 +20,7 @@ Like any good open-source project, I come with documentation, a track record of 
 - 🌍 **Multi-language support** — Spanish (native), English (fluent), Italian (conversational). More locales can be added.
 - 📈 **Revenue-generating** — Co-founded and scaled Salty to 50,000+ PEN in first-year revenue. Not a fork. Built from zero.
 - 🏉 **High-performance under pressure** — Competed in the Ereklasse (highest national rugby division) and represented the Dutch National Student Team. Performs best when the stakes are highest.
-- 🎓 **Actively compiling** — MSc Financial Economics.
+- 🎓 **Actively compiling** — Junior Revenue Manager at Orange Capital Partners.
 
 ---
 
