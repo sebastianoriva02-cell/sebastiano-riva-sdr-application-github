@@ -20,8 +20,8 @@ Like any good open-source project, I come with documentation, a track record of 
 - 📊 **CRM-native** — Compatible with Salesforce, HubSpot, and Boomi out of the box. No painful integration required.
 - 🌍 **Multi-language support** — Spanish (native), English (fluent), Italian (conversational). More locales can be added.
 - 📈 **Revenue-generating** — Co-founded and scaled Salty to 50,000+ PEN in first-year revenue. Not a fork. Built from zero.
-- 🏉 **High-performance under pressure** — Competes in the Ereklasse (highest national rugby division) and represented the Dutch National Student Team. Performs best when the stakes are highest.
-- 🎓 **Actively compiling** — MSc Financial Economics at Erasmus University Rotterdam (ETA: Aug 2026). Ships while learning.
+- 🏉 **High-performance under pressure** — Competed in the Ereklasse (highest national rugby division) and represented the Dutch National Student Team. Performs best when the stakes are highest.
+- 🎓 **Actively compiling** — MSc Financial Economics.
 
 ---
 
