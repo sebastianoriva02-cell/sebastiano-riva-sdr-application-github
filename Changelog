@@ -1,0 +1,84 @@
+# CHANGELOG
+
+All notable changes to **sebastiano-riva** are documented in this file.
+
+Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+Versioning follows career milestones, not semantic versioning — each release ships something real.
+
+---
+
+## [3.0.0] — 2025-04 · *Salty · Lima, Peru*
+**Type:** Major release — First time as sole architect
+
+### Added
+- Co-founded consumer brand from zero to 50,000+ PEN in first-year revenue
+- Full sales funnel ownership: inbound handling → qualification → conversion → retention
+- Designed and executed digital customer acquisition strategy (paid + organic)
+- Pricing strategy module and margin optimization engine
+
+### Notes
+> First release where I owned the entire roadmap. No senior dev to ask. Shipped anyway.
+
+---
+
+## [2.0.0] — 2025-05 · *Orange Capital Partners · Amsterdam, NL*
+**Type:** Major release — Enterprise environment, live pipeline
+
+### Added
+- Inbound rental lead qualification using Authority, Need, and Timing framework
+- CRM integration work across Salesforce, HubSpot, and Boomi
+- Alternative revenue stream development across portfolio properties
+- Improved lead response time and follow-up consistency → increased lease conversion rate
+
+### Fixed
+- Legacy follow-up gaps in CRM pipeline
+- Data flow inconsistencies between platforms
+
+---
+
+## [1.1.0] — 2024-09 · *Erasmus University Rotterdam · MSc Financial Economics*
+**Type:** Minor release — Compiler upgrade (in progress, ETA Aug 2026)
+
+### Added
+- Advanced modules: financial modelling, macroeconomics, investment analysis
+- Venture Capital Analyst role at Asset Management Study Association
+  - Analyzing Dutch startup funding rounds and emerging tech trends
+
+---
+
+## [1.0.1] — 2023 · *Rotterdam Student Rugby Club*
+**Type:** Patch — High-pressure performance module
+
+### Added
+- Ereklasse selection (highest national rugby division)
+- National Student Team selection
+- Competitive resilience under elite conditions
+
+### Notes
+> Patch that permanently improved performance under pressure. Unexpected but essential.
+
+---
+
+## [1.0.0] — 2021-09 · *Erasmus University Rotterdam · BSc Economics & Business*
+**Type:** Initial stable release
+
+### Added
+- Financial Economics major
+- First structured exposure to market analysis, data interpretation, business fundamentals
+
+---
+
+## [0.1.0] — 2019-01 · *Galilea SAC · Lima, Peru*
+**Type:** Alpha — First external deployment
+
+### Added
+- Cold outreach campaigns for market data collection
+- Prospect qualification (early version, pre-ANT framework)
+- Competitive analysis and Excel-based reporting
+
+### Notes
+> Rough around the edges. Core functionality was there. Good foundation to build on.
+
+---
+
+*Next release: GitHub SDR Amsterdam — Q3 2025*
