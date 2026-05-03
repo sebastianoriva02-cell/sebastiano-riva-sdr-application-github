@@ -1,0 +1,103 @@
+# Pull Request: Add Sebastiano Riva to GitHub EMEA SDR Team
+
+**PR #001** · `sebastiano-riva:candidate` → `github:sdr-amsterdam` · **Open**
+
+---
+
+## 👤 Author
+**Sebastiano Riva** · [@sebastiano-riva](https://linkedin.com/in/sebastiano-riva-687769217)
+📧 sebastianoriva02@gmail.com · 📱 +31 651 057 359
+
+---
+
+## 📝 Summary
+
+This PR proposes adding one Sales Development Representative to the GitHub EMEA team in Amsterdam.
+
+The candidate has been tested in real pipeline environments, integrates cleanly with Salesforce and HubSpot, ships results under pressure, and is available on-site Wednesday and Thursday — no configuration required.
+
+---
+
+## 🔍 What This PR Does
+
+- Adds a qualified inbound/outbound lead qualification function to the Amsterdam sales team
+- Improves EMEA pipeline coverage and ANT-based opportunity identification
+- Brings native Spanish language support (+ English and Italian) to EMEA outreach
+- Introduces a founder-grade ownership mentality into a team environment
+
+---
+
+## 💡 Motivation
+
+GitHub's EMEA sales team is scaling. The Amsterdam SDR role is the front line of that growth.
+
+I've spent the last year doing exactly this work — qualifying inbound leads, running discovery, managing CRM data, and building pipeline — first at Orange Capital Partners in Amsterdam, and before that as a founder where I owned the entire sales funnel myself.
+
+I know how to talk to decision-makers, identify timing, and move deals forward. The difference is that at GitHub, I'd be doing it for a product I actually believe in — one that 180 million developers already use.
+
+---
+
+## 📂 Files Changed
+
+```diff
++ experience/orange-capital-partners.md   # Lead qualification, CRM, pipeline
++ experience/salty-founder.md             # Revenue ownership, full funnel
++ education/erasmus-msc-financial-econ.md # In progress — ships Aug 2026
++ skills/crm-stack.md                     # Salesforce, HubSpot, Boomi
++ skills/languages.md                     # ES (native), EN (fluent), IT (conversational)
++ extras/rugby-ereklasse.md               # High performance under pressure
+```
+
+---
+
+## ✅ Checklist
+
+- [x] Based in Amsterdam
+- [x] Available on-site Wed & Thu
+- [x] 1+ year experience in sales / business development
+- [x] Hands-on CRM experience (Salesforce, HubSpot)
+- [x] Comfortable in fast-paced global tech environment
+- [x] Proven ability to build stakeholder connections
+- [x] Business-level English + additional language (Spanish — native)
+- [x] No conflicts with existing team culture
+- [x] Ready to merge immediately
+
+---
+
+## 🧪 Tests Passed
+
+```
+✓ ANT qualification framework — field tested
+✓ Inbound lead handling — production environment
+✓ CRM data management — Salesforce + HubSpot + Boomi
+✓ Revenue generation — 50,000+ PEN, first year
+✓ Performance under pressure — Ereklasse rugby, National Student Team
+✓ Works with ambiguity — founded a company from scratch
+```
+
+---
+
+## ⚠️ Known Limitations
+
+- Currently completing MSc Financial Economics (ETA Aug 2026) — does not affect availability
+- No prior GitHub Enterprise sales experience — offset by fast ramp-up track record and genuine product interest
+
+---
+
+## 💬 Reviewer Notes
+
+> *I won't pretend every SDR candidate applying for this role isn't qualified on paper. They probably are.*
+>
+> *The question isn't who checks the boxes — it's who will actually pick up the phone, run a great discovery call, and make the prospect feel like talking to GitHub was worth their time.*
+>
+> *That's what I do. And I'd love the chance to show you.*
+
+---
+
+## 🔀 Requested Reviewers
+
+`@github-emea-sales-manager` `@hiring-team`
+
+---
+
+**Merge when ready.** 🚀
