@@ -48,7 +48,7 @@ sebastiano-riva/
 │   ├── orange-capital.md         # Inbound qualification, CRM optimization
 │   └── galilea-analyst.md        # Cold outreach, competitive analysis
 ├── education/
-│   ├── erasmus-msc.md            # Financial Economics (in progress)
+│   ├── erasmus-msc.md            # Financial Economics ✅
 │   └── erasmus-bsc.md            # Economics & Business ✅
 ├── stack/
 │   ├── crm/                      # Salesforce, HubSpot, Boomi
